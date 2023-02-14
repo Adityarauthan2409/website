@@ -1,0 +1,149 @@
+.header_style_01 {
+    background-color: rgba(255, 255, 255);
+    display: block;
+    left: 0;
+    padding: 20px 40px !important;
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%;
+    
+}
+
+.navbar-brand>img {
+    display: block;
+    width: 100px;
+}
+.navbar ul {
+    
+    display: inline-block;
+}
+.navbar li {
+    position: relative;
+    margin: 0px 10px;
+    display: inline;
+    list-style: none;
+    
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+
+body{
+	background: rgba(132, 155, 219, 0.5);
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+	background: #fff;
+	margin-top: 50px;
+	padding: 20px 20px 20px 20px;
+	box-sizing: border-box;
+	border-radius: 20px;
+	width: 945px;
+}
+
+img{
+	padding-top: 110px;
+	padding-left: 50px;
+	width: 85%;
+	height: 80%;
+}
+.text-muted{
+	font-size: 13px;
+	font-weight: bold;
+}
+.form-title{
+	font-weight: bold;
+}
+.form-group label{
+	font-size: 11px;
+	font-weight: bold;
+	padding-left: 5px;
+	color: #828282;
+}
+.form-control{
+	border: none; /*1px solid #f4f4f4;*/
+	border-radius: 20px;
+	background: rgba(165, 147, 69, 0.075);/*#f4f4f4;*/
+	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.2);
+}
+.btn{
+	width: 100%;
+	font-size: 12px;
+	margin-top: 10px;
+    background-color: rgba(56, 147, 243, 0.67);
+    text-align: center;
+    border-radius: 5px;
+}
+.form-control:focus {
+    color: #495057;
+    border-color: #fff !important;
+    outline: 0;
+    box-shadow: 0 1px 1px 1px rgba(0, 123, 255, .25) !important
+}
+
+
+
+
+.footer
+{
+    background-color: #3c2a5c;
+    color: white;
+    margin-top: 2%;
+
+}
+.footer .column
+{
+    display: inline-block;
+    width: calc(100%/5);
+    margin-left:3rem;
+    margin-top: 50px;
+}
+
+.footer .column ul
+{
+    display: inline-block;
+}
+.footer .column ul li
+{
+    list-style: none;
+}
+.footer .logo
+{
+    font-size: 50px;
+    font-weight: 800;
+}
+.footer .logo span
+{
+    font-size: 55px;
+    font-weight: 800;
+}
+.footer a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+.sub-footer
+{
+    background-color: black;
+    
+}
+
+.sub-footer p
+{
+    
+    color: white;
+    text-align: center;
+}
+
+.sub-footer p span
+{
+    color: #fd6802;
+}

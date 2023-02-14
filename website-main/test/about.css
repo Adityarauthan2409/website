@@ -1,0 +1,99 @@
+.header_style_01 {
+    background-color: rgba(255, 255, 255);
+    display: block;
+    left: 0;
+    padding: 20px 40px !important;
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%;
+    
+}
+
+.navbar-brand>img {
+    display: block;
+    width: 100px;
+}
+.navbar ul {
+    
+    display: inline-block;
+}
+.navbar li {
+    position: relative;
+    margin: 0px 10px;
+    display: inline;
+    list-style: none;
+    
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 10%;
+}
+
+
+.footer
+{
+    background-color: #3c2a5c;
+    color: white;
+    margin-top: 2%;
+
+}
+.footer .column
+{
+    display: inline-block;
+    width: calc(100%/5);
+    margin-left:3rem;
+    margin-top: 50px;
+}
+
+.footer .column ul
+{
+    display: inline-block;
+}
+.footer .column ul li
+{
+    list-style: none;
+}
+.footer .logo
+{
+    font-size: 50px;
+    font-weight: 800;
+}
+.footer .logo span
+{
+    font-size: 55px;
+    font-weight: 800;
+}
+.footer a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+.sub-footer
+{
+    background-color: black;
+    
+}
+
+.sub-footer p
+{
+    
+    color: white;
+    text-align: center;
+}
+
+.sub-footer p span
+{
+    color: #fd6802;
+}
